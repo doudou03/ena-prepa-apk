@@ -1,0 +1,12 @@
+{
+  "name": "ena-prepa-apk",
+  "version": "2.2.0",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^6.1.0",
+    "@capacitor/core": "^6.1.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.0"
+  }
+}
